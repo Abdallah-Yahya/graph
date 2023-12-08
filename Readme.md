@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Details about this project
 
 Program that inputs two undirected graphs from the user and stores each graph in 3 different ways (representations) as explained in the example below.
@@ -21,7 +20,3 @@ Program that inputs two undirected graphs from the user and stores each graph in
 - Display the vertex (vertices) with the highest degree from graph B. 
 - Are the graphs equal (the same graph)?
 - Exit program
-=======
-# About this project
-...
->>>>>>> 43af58fddd3b127a1c3f15efffaa11cbde7f39e0
