@@ -1,8 +1,8 @@
 # Details about this project
 
-Program that inputs two undirected graphs from the user and stores each graph in 3 different ways (representations) as explained in the example below.
+Program that inputs two undirected graphs from the user and stores each graph in 3 different ways (representations).
 - The program must display the edges of the graph 
-- The program must be able to determine: The intersection between the graphs(common edges), The union of the graphs (all edges without repetition), whether one graph is a subgraph of another, the vertex (vertices) with the highest degree, whether the two graphs are equal (the same graph) or not
+- The program determines : The intersection between the graphs(common edges), The union of the graphs (all edges without repetition), whether one graph is a subgraph of another, the vertex (vertices) with the highest degree, whether the two graphs are equal (the same graph) or not
 
 ## The menu contains:
 
